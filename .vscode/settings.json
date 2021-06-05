@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "icfoss/bin/python",
+    "jupyter.jupyterServerType": "local"
+}
